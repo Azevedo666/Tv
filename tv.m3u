@@ -1,0 +1,73 @@
+#EXTM3U 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/1280px-RTP1_-_Logo_2016.svg.png" group-title="Generalistas", RTP 1
+http://213.13.16.138/shls/LIVE%24RTP1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF: -1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp2_negativoAmarelo_horiz_RGB.png" group-title="Generalistas", RTP 2
+http://213.13.16.138/shls/LIVE%24RTP_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="Generalistas", SIC
+http://213.13.16.138/shls/LIVE%24SIC_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Log%C3%B3tipo_TVI.png/200px-Log%C3%B3tipo_TVI.png" group-title="Generalistas", TVI
+http://213.13.16.138/shls/LIVE%24TVI_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg" group-title="Desporto", SPORT TV 1
+http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sport_TV2_%282023%29.svg/1920px-Sport_TV2_%282023%29.svg.png" group-title="Desporto", SPORT TV 2
+http://213.13.16.138/shls/LIVE%24SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sport_TV3_%282023%29.svg/1920px-Sport_TV3_%282023%29.svg.png" group-title="Desporto", SPORT TV 3
+http://213.13.16.138/shls/LIVE%24SPORTTV3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Sport_TV4_%282023%29.svg/1920px-Sport_TV4_%282023%29.svg.png" group-title="Desporto", SPORT TV 4
+http://213.13.16.138/shls/LIVE%24SPORTTVLive_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sport_TV5_%282023%29.svg/1200px-Sport_TV5_%282023%29.svg.png" group-title="Desporto", SPORT TV 5
+http://213.13.16.138/shls/LIVE%24SPORTTV_GOLFE_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sport_TV6_%282023%29.svg/1920px-Sport_TV6_%282023%29.svg.png" group-title="Desporto", SPORT TV 6
+http://213.13.16.138/shls/LIVE%24SPORTTV6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/1200px-Logo_NBA_TV.svg.png" group-title="Desporto", SPORT TV NBA
+http://213.13.16.138/shls/LIVE%24NBA_TV_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Eleven_Sports_1_logo.jpg" group-title="Desporto", ELEVEN SPORTS 1
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF: -1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2-hd.png" group-title="Desporto", ELEVEN SPORTS 2
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF: -1 tvg-logo="https://r-scale-0a.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_266431.png?type=0&srcmode=4&srcx=0%2F1&srcy=0%2F1&dstw=400&dsth=200" group-title="Desporto", ELEVEN SPORTS 3
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX9KvkjEj2X19eZ9QQVIx6IMgK09GqwPyFSguTGYrn&s" group-title="Desporto", ELEVEN SPORTS 4
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9qwT3inqjOmjwsk9YRpiRV9eTP99roarDaYgQTO-7&s" group-title="Desporto", ELEVEN SPORTS 5
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_5_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl9bSTwxg14zSED_H1GFAgelauAT_9xqMwbHvu-Hse&s" group-title="Desporto", ELEVEN SPORTS 6
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjA7gUsNJK3C860aLSFnG8AUE7x0wOmOK9N21DM_bu&s" group-title="Desporto", BTV
+http://213.13.16.138/shls/LIVE%24Benfica_TV_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png" group-title="Filmes", TVCine Top
+http://213.13.16.138/shls/LIVE%24TVCine_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png" group-title="Filmes", TVCINE Edition
+http://213.13.16.138/shls/LIVE%24TVCine_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/TVCine-Emotion.png" group-title="Filmes", TVCINE Emotion
+http://213.13.16.138/shls/LIVE%24TVCine_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/TVCine-ACTION.png" group-title="Filmes", TVCINE Action
+http://213.13.16.138/shls/LIVE%24TVCine_4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/1024px-Amc_logo.svg.png" group-title="Filmes", AMC
+http://213.13.16.138/shls/LIVE%24AMC_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK5PIk53duDsUXdz33ju8_7ltNa631R7McmyYOSdEjfg&s" group-title="Filmes", AXN
+http://213.13.16.138/shls/LIVE%24AXN_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF: -1 tvg-logo="https://www.cinemundo.pt/canalcinemundo/wp-content/uploads/2015/09/logo-canal1.png" group-title="Filmes", CineMundo
+http://213.13.16.138/shls/LIVE%24CINEMUNDO/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/HWD_logo.svg" group-title="Filmes", Hollywood
+http://213.13.16.138/shls/LIVE%24Hollywood_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg" group-title="Filmes", Star
+http://213.13.16.138/shls/LIVE%24FOX_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEriUGBjHccmbNRCfCqfLNx8AQJaLlpKzG0TB8wr75HA&s" group-title="Filmes", Star Life
+http://213.13.16.138/shls/LIVE%24FOX_Life/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/2560px-Star_Crime_2023.svg.png" group-title="Filmes", Star Crime
+http://213.13.16.138/shls/LIVE%24FOX_Crime/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Star_Comedy_2020.svg" group-title="Filmes", Star Comedy
+http://213.13.16.138/shls/LIVE%24FX/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF: -1 tvg-logo="https://seeklogo.com/images/P/playboy-tv-logo-8447C82DEB-seeklogo.com.png" group-title="Adulto", PlayboyTV
+http://213.13.16.138/shls/LIVE%24Playboy_TV/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF: -1 tvg-logo="https://www.atelevisao.com/wp-content/uploads/2012/05/Hot-logo.png" group-title="Adulto", HOT
+http://213.13.16.138/shls/LIVE%24HOT/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/564x/d0/a5/06/d0a50672e22791b8f369abafc0a54e30.jpg" group-title="Adulto", Sextream
+http://213.13.16.138/shls/LIVE%24SexTream/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/2560px-Canal_Venus_logo.svg.png" group-title="Adulto", Venus
+http://213.13.16.138/shls/LIVE%24Venus/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png" group-title="Documentário", Discovery Channel
+http://213.13.16.138/shls/LIVE%24Discovery_Channel_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/24Kitchen.png" group-title="Documentário", 24Kitchen
+http://213.13.16.138/shls/LIVE%2424Kitchen_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
