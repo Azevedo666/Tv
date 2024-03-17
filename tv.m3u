@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/1280px-RTP1_-_Logo_2016.svg.png" group-title="Generalistas", RTP 1
-http://213.13.16.138/shls/LIVE%24RTP1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+https://ptiptv.tk/rtp1.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+
 #EXTINF: -1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp2_negativoAmarelo_horiz_RGB.png" group-title="Generalistas", RTP 2
 http://213.13.16.138/shls/LIVE%24RTP_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="Generalistas", SIC
